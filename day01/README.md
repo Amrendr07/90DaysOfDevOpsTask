@@ -1,6 +1,6 @@
 # Introduction - Day 1
 
-Welcome to the #90DaysOfDevOps Challenge with the #Amrendra Kumar ! Today, we begin our journey into the world of DevOps. Here’s what you need to do:
+Welcome to the #100DaysOfDevOps Challenge with the #Amrendra Kumar ! Today, we begin our journey into the world of DevOps. Here’s what you need to do:
 
 1. **Fork this Repository:**
    - Go to the repository on GitHub and fork it to your own account. This will allow you to track your progress and contribute.
