@@ -1,2 +1,17 @@
-# 90DaysOfDevOpsTask
-This repository is a Challenge for the DevOps Community to get stronger in DevOps. This challenge starts on the 08 April 2025 and in the next 90 Days we promise ourselves to become better at DevOps. The reason for making this Public is so that others can learn from the community and help each other grow.
+# #100DaysOfDevOps Challenge
+
+## Learn, Upskill, Grow with the Community
+
+Join our DevOps community challenge and embark on a 90-day journey to become a better DevOps practitioner. This repository serves as an open invitation to all DevOps enthusiasts who are looking to enhance their skills and knowledge. By participating in this challenge, you will have the opportunity to learn from others in the community, collaborate with like-minded individuals, and ultimately strengthen your DevOps abilities.
+
+Let's come together to grow and achieve new heights in DevOps!
+
+📖 **Discover More in Our Detailed Table of Contents!** Explore the richness of our content and find what you're looking for efficiently. Check out our [TOC here](./TOC.md).
+
+## Steps:
+
+- Fork the Repo.
+- Learn Everyday and add your learnings in the day wise folders.
+- Check out what others are Learning and help/learn from them.
+- Showcase your learnings on LinkedIn
+
