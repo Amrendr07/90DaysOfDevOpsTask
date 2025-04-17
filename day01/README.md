@@ -22,6 +22,6 @@ Welcome to the #90DaysOfDevOps Challenge with the #Amrendra Kumar ! Today, we be
        
 
 4. **Engage with the Community:**
-   - Share your LinkedIn post or article link in the community forum or on social media using the hashtags #90DaysOfDevOps and #TrainWithShubham.
+   - Share your LinkedIn post or article link in the community forum.
    - Read and comment on posts from other participants to foster a collaborative learning environment.
 
