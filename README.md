@@ -6,7 +6,7 @@ Join our DevOps community challenge and embark on a 100-day journey to become a 
 Here I am going to Give you 90 Days tasks which i am Learning From Train With Shubham , These Tasks are for everyone's Practice.
 Let's come together to grow and achieve new heights in DevOps!
 
-📖 **Discover More in Our Detailed Table of Contents!** Explore the richness of our content and find what you're looking for efficiently. Check out our [TOC here](./TOC.md).
+📖 **Discover More in Our Detailed Table of Contents!** Explore the richness of our content and find what you're looking for efficiently.
 
 ## Steps:
 
